@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+#### What new skills have you learned?
+* Read the problem statement more than once
+* Write down the usecases
+* Refer MDN for syntax
+* code it and review and add good practices if it is missed.  Ex : Alt text for Image
+#### What has been easy?
+* Mdn reference was informative
+* HTMl validators that are available online guide us when errors or obselete tags used. For example i used strike tag which is obselete. Alternate options proposed was css.
+* Sublime editor autocomplete and intelisence is helpful.
+#### What has been difficult ?
+* I am confused sometimes to choose right tag. i and em tag both gave italic effect. Not sure which is better.
+* Mdn contents are vast. So i end up reading on the surface.
+#### How have you used the problem solving strategies from the first project to overcome challenges so far?
+Yes.
